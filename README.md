@@ -1,2 +1,3 @@
-# firsttest
-just a test
+
+This folder contains my own application exercises
+
